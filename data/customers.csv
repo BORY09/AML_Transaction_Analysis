@@ -1,0 +1,1001 @@
+customer_id,name,age,city,account_type
+324259,Anita Miotke,83,Grodzisk Mazowiecki,Premium
+157697,pani Roksana Szczerbiak,63,Ciechanów,Premium
+385661,Szymon Przewłoka,37,Poznań,Premium
+500449,Cyprian Hankiewicz,66,Lubartów,Premium
+657477,pani Ewa Działo,48,Pszczyna,Standard
+486281,Janina Skomra,76,Oława,Gold
+676877,Andrzej Milej,39,Zakopane,Premium
+825219,Elżbieta Kulma,22,Ostrów Wielkopolski,Premium
+834225,pani Agnieszka Uziębło,19,Kielce,Premium
+728369,Dagmara Żółkiewicz,72,Jasło,Gold
+199972,pani Eliza Startek,61,Piekary Śląskie,Premium
+168377,Melania Gietka,50,Żagań,Premium
+604853,Lidia Miśkowiec,33,Ostrołęka,Gold
+484402,Tadeusz Wołos,38,Jastrzębie-Zdrój,Premium
+355521,pan Maks Mitera,80,Piekary Śląskie,Gold
+317822,Tymoteusz Nickel,27,Skarżysko-Kamienna,Standard
+250205,Kaja Parada,70,Jarosław,Standard
+232627,pan Hubert Micał,82,Września,Premium
+790241,pani Marcelina Matla,84,Dębica,Gold
+789850,pan Jerzy Leszczyk,74,Skawina,Premium
+491595,Lidia Dyczko,60,Świdnica,Premium
+625535,Leonard Wojtera,44,Reda,Gold
+951783,Józef Małas,68,Bielsk Podlaski,Premium
+950955,Dorota Waloszczyk,33,Cieszyn,Standard
+203981,Cezary Paździora,30,Zgorzelec,Premium
+559611,Oliwier Drążyk,51,Sopot,Premium
+171982,Bianka Dynia,31,Gliwice,Premium
+830953,Adam Bubel,50,Żyrardów,Gold
+135618,Franciszek Gumienny,50,Leszno,Gold
+165545,Juliusz Jeske,29,Ostrów Wielkopolski,Standard
+511802,pani Róża Mesjasz,43,Piła,Premium
+948286,Hubert Madajczyk,48,Nowy Dwór Mazowiecki,Standard
+804601,pan Oliwier Sygut,28,Żyrardów,Premium
+786567,pan Krzysztof Tomalik,18,Chełm,Gold
+356164,Kaja Mudlaff,19,Dzierżoniów,Standard
+345342,Adam Pachnik,71,Jarosław,Premium
+928565,Inga Kacperczyk,82,Świebodzice,Standard
+593178,Ryszard Kapustka,27,Jaworzno,Gold
+581465,Hubert Zbrzeźniak,26,Jaworzno,Standard
+869860,Dominik Początek,56,Dzierżoniów,Gold
+714159,pani Urszula Żołądź,76,Świętochłowice,Standard
+564187,Rozalia Heller,26,Iława,Standard
+248198,pan Tadeusz Buza,27,Lublin,Standard
+304593,pani Justyna Mazik,50,Płock,Gold
+842554,pan Jeremi Szarejko,67,Lubartów,Gold
+502206,Szymon Frania,60,Szczytno,Gold
+806669,pan Adrian Kolarczyk,69,Polkowice,Premium
+826742,Paweł Pal,18,Kłodzko,Gold
+161375,Artur Glica,44,Sandomierz,Premium
+935307,Emil Zbroszczyk,80,Zawiercie,Gold
+788962,Marcelina Morcinek,24,Żyrardów,Gold
+541651,pan Jakub Kajdas,39,Kraśnik,Standard
+422377,Angelika Duży,18,Koszalin,Premium
+200393,Elżbieta Frydel,37,Żary,Gold
+700983,Bruno Brejnak,38,Legionowo,Premium
+787868,Konrad Strzała,54,Nysa,Standard
+398623,pani Anastazja Letkiewicz,75,Żory,Gold
+356250,pan Julian Kusio,78,Elbląg,Standard
+290820,Sandra Deluga,26,Tychy,Gold
+181754,Jerzy Staniewicz,71,Legionowo,Standard
+189760,Nela Ostapiuk,31,Jarocin,Standard
+934940,Tadeusz Suchora,79,Gniezno,Standard
+660218,Maks Dankiewicz,70,Gorzów Wielkopolski,Standard
+878170,pani Liwia Tylus,83,Ostrów Mazowiecka,Standard
+246504,Dominik Polakiewicz,74,Kalisz,Premium
+940117,Justyna Monkiewicz,75,Wieluń,Gold
+728094,Mateusz Dorobisz,24,Włocławek,Standard
+186021,Agnieszka Madura,50,Ciechanów,Gold
+454011,Tymon Swaczyna,37,Zduńska Wola,Premium
+617331,Natasza Cecot,40,Zakopane,Gold
+552527,Szymon Bitner,29,Piastów,Gold
+976818,pani Kaja Ziarek,27,Gdynia,Standard
+530014,pan Wiktor Łyp,18,Reda,Premium
+271220,Melania Kalarus,59,Chorzów,Standard
+248526,Michał Lisoń,54,Radomsko,Premium
+946642,Nataniel Gomuła,34,Stalowa Wola,Gold
+534961,Artur Roszko,32,Nysa,Premium
+377237,Olga Gwizdek,39,Oświęcim,Standard
+396440,Blanka Michniak,37,Stargard Szczeciński,Gold
+464125,Stanisław Deryło,27,Jelenia Góra,Premium
+426155,pani Aurelia Hankiewicz,18,Grudziądz,Gold
+227863,Alex Malecha,32,Zambrów,Gold
+929163,Norbert Bek,75,Gorzów Wielkopolski,Gold
+582238,Michał Tryka,22,Piaseczno,Premium
+802952,Bianka Kasak,60,Ostróda,Premium
+722671,pani Sonia Bednarowicz,84,Koszalin,Standard
+231500,Aleksander Rysz,57,Czechowice-Dziedzice,Premium
+166668,pan Cezary Kalka,48,Lubartów,Premium
+682481,Kamila Cyrulik,40,Toruń,Gold
+178156,Maciej Kapral,20,Częstochowa,Gold
+516325,Ewa Galon,33,Jarocin,Premium
+987642,Kajetan Proć,20,Elbląg,Gold
+173537,Ewelina Kuran,67,Jastrzębie-Zdrój,Gold
+188343,Piotr Łukasz,40,Kołobrzeg,Premium
+856301,Marika Maciejczuk,45,Myszków,Gold
+714637,pani Lidia Sadza,23,Ostrowiec Świętokrzyski,Standard
+478983,Maksymilian Jarka,79,Wodzisław Śląski,Gold
+653384,Borys Ciołczyk,25,Kędzierzyn-Koźle,Gold
+405533,Dagmara Olchawa,60,Żyrardów,Standard
+145235,Marcin Czura,73,Zawiercie,Standard
+397811,Justyna Piwowarek,54,Wieluń,Premium
+858342,Fryderyk Machul,69,Bełchatów,Premium
+965422,Tola Walkusz,59,Białystok,Premium
+453772,pan Julian Florian,79,Zduńska Wola,Standard
+659927,Maurycy Sarota,32,Zawiercie,Premium
+101476,Igor Doktór,51,Piaseczno,Gold
+347950,pani Elżbieta Namysł,36,Ełk,Standard
+455593,Dariusz Pospiech,66,Białogard,Standard
+269067,Błażej Kurda,54,Mińsk Mazowiecki,Standard
+964949,Dariusz Walo,85,Słupsk,Gold
+698386,Jędrzej Jerzyk,24,Tczew,Gold
+538995,pan Leon Niewola,60,Łomża,Standard
+712344,Franciszek Dziewa,70,Krosno,Gold
+890323,Justyna Kulczak,28,Warszawa,Premium
+653240,Hubert Bochnia,25,Toruń,Standard
+926667,Oliwier Roszkiewicz,19,Łomża,Standard
+113361,pani Tola Ogrodowicz,78,Opole,Gold
+117750,Krystyna Kołton,72,Chełm,Premium
+103422,pani Janina Suchojad,51,Żywiec,Standard
+248024,pan Paweł Kadela,71,Bełchatów,Standard
+325062,pani Liwia Kordus,40,Świebodzice,Premium
+649213,Juliusz Strzała,82,Bielsk Podlaski,Standard
+673488,Marcel Jagieło,70,Mińsk Mazowiecki,Premium
+949596,Anastazja Banyś,42,Pabianice,Gold
+628424,Leonard Warwas,58,Jasło,Premium
+974680,Anna Maria Kolarczyk,27,Katowice,Gold
+805760,pani Julita Latoszek,23,Gorlice,Premium
+342368,pan Emil Gosz,60,Biłgoraj,Premium
+155198,pani Kornelia Sztuba,78,Inowrocław,Premium
+182779,Karol Perczak,38,Skarżysko-Kamienna,Premium
+270359,Dagmara Radzewicz,50,Tarnów,Gold
+446677,Sara Łaszczyk,24,Świebodzice,Gold
+399988,Ada Niksa,34,Ełk,Gold
+234981,Julita Hyży,21,Ostrów Mazowiecka,Premium
+803345,Maciej Olbrych,45,Oleśnica,Premium
+715363,Hubert Basista,19,Dzierżoniów,Gold
+244247,Krystian Czermak,53,Jelenia Góra,Standard
+905794,Iwo Miętka,46,Środa Wielkopolska,Standard
+563416,Konrad Kiełbowicz,80,Augustów,Standard
+601731,Kalina Kurda,37,Szczecinek,Premium
+796535,Julita Cukier,71,Środa Wielkopolska,Premium
+801467,pan Artur Bartoś,26,Bielsko-Biała,Gold
+608387,Liwia Boksa,77,Goleniów,Premium
+566141,Bianka Juraszczyk,64,Sanok,Premium
+159372,pan Robert Kala,56,Częstochowa,Gold
+433903,Fryderyk Rejmer,83,Biłgoraj,Standard
+572102,Karina Siewert,57,Bartoszyce,Gold
+267001,Hubert Foit,85,Ząbki,Gold
+548495,Kajetan Myga,37,Katowice,Standard
+629363,Marcelina Beck,37,Rzeszów,Standard
+760837,Anita Pielach,52,Kościan,Gold
+104940,Krystyna Kochanowicz,34,Jarocin,Premium
+256236,Malwina Zarzeczna,22,Sosnowiec,Premium
+207211,Mikołaj Dębosz,67,Łaziska Górne,Standard
+556704,Elżbieta Rubacha,80,Świętochłowice,Gold
+285549,Maksymilian Borczyk,38,Nowa Ruda,Standard
+653974,pani Eliza Malon,50,Piekary Śląskie,Standard
+367117,Lidia Luberda,72,Radomsko,Gold
+848078,Przemysław Pyć,71,Elbląg,Premium
+192099,pan Natan Pagacz,55,Sopot,Premium
+546521,pan Ryszard Hendzel,47,Września,Standard
+908287,Agnieszka Matyjaszek,25,Polkowice,Premium
+653859,Anna Maria Dawidczyk,61,Bolesławiec,Gold
+731147,Rozalia Puch,79,Oleśnica,Gold
+513008,pan Tomasz Kwak,49,Legnica,Gold
+469761,pani Nicole Płocharczyk,55,Bartoszyce,Gold
+719149,Cezary Wojewódka,71,Mysłowice,Gold
+997193,Michał Hrabia,21,Bytom,Premium
+558588,Eliza Pakos,28,Łomża,Standard
+701915,Roksana Kurach,32,Dzierżoniów,Standard
+658750,Agnieszka Meler,71,Poznań,Premium
+632965,Marcelina Rejmak,33,Gorzów Wielkopolski,Standard
+568190,pani Karina Dybaś,72,Pruszcz Gdański,Premium
+986020,Dorota Kwak,52,Słupsk,Gold
+816682,Anita Lukas,46,Iława,Premium
+756425,Natasza Kukieła,23,Chojnice,Gold
+861232,pani Angelika Kiełbowicz,69,Zabrze,Premium
+790333,Sandra Korzonek,40,Kętrzyn,Premium
+871610,Krzysztof Macek,68,Leszno,Premium
+955044,Rozalia Pastuła,32,Szczecinek,Premium
+355975,Sonia Palej,41,Biała Podlaska,Premium
+140613,Leon Mirgos,74,Suwałki,Premium
+994916,Anita Mazik,85,Kluczbork,Standard
+654301,pan Kajetan Stosik,61,Mielec,Standard
+768561,pani Kalina Lemieszek,77,Cieszyn,Gold
+818438,Patryk Kościukiewicz,33,Słupsk,Premium
+104181,pan Krzysztof Burdach,60,Kluczbork,Premium
+635402,Dagmara Podleśna,55,Środa Wielkopolska,Gold
+458698,pan Krystian Skotarczak,84,Kętrzyn,Standard
+893880,Natan Stuglik,29,Słupsk,Standard
+507317,Dawid Klucznik,36,Sosnowiec,Premium
+328776,Eryk Latoszek,60,Pszczyna,Gold
+991930,Mariusz Młynarz,69,Sopot,Premium
+559701,pani Marika Rej,81,Bielsk Podlaski,Standard
+678010,Julian Piekacz,77,Dzierżoniów,Premium
+745731,pani Julita Wydmuch,66,Łowicz,Premium
+320503,Norbert Grochowina,49,Pruszcz Gdański,Gold
+169409,pan Borys Salwin,48,Środa Wielkopolska,Premium
+228595,Alex Misiejuk,28,Ostrołęka,Standard
+387882,Kalina Hetmańczyk,46,Włocławek,Gold
+680711,Blanka Klupś,70,Kielce,Gold
+603359,Klara Namysło,26,Konin,Premium
+203290,Wojciech Wiertelak,46,Jelenia Góra,Premium
+135768,Gabriel Kryk,70,Radom,Standard
+811000,pani Ada Kwinta,29,Pabianice,Premium
+929109,Antoni Komsta,23,Szczytno,Gold
+891514,Sylwia Janc,75,Mława,Standard
+899112,Wojciech Malon,65,Lubartów,Gold
+994446,pan Bruno Kostera,26,Opole,Gold
+193245,Rozalia Śliż,45,Świnoujście,Premium
+671554,pan Kacper Łodej,42,Tarnów,Standard
+537128,Damian Lisak,23,Ruda Śląska,Gold
+258921,pani Dorota Krysik,57,Luboń,Premium
+296806,pan Konrad Trybała,40,Sochaczew,Gold
+277067,Ida Fraś,72,Piaseczno,Standard
+861062,Piotr Kierat,22,Jelenia Góra,Standard
+633663,Juliusz Ragan,35,Lublin,Gold
+986575,Ernest Morek,28,Płońsk,Gold
+698028,Anastazja Makulec,52,Szczecinek,Standard
+817391,Alan Furmankiewicz,37,Bydgoszcz,Gold
+121790,Julianna Kunc,80,Nowa Ruda,Gold
+796499,Janina Długozima,66,Wałcz,Gold
+799347,Wojciech Czerner,72,Ostróda,Gold
+248065,Ryszard Zyzik,19,Jawor,Gold
+983793,Andrzej Warwas,42,Wieluń,Gold
+640088,Nikodem Hallmann,82,Kościerzyna,Standard
+248722,Tadeusz Milczarczyk,29,Tczew,Standard
+282438,pan Tymon Matejczyk,62,Zawiercie,Premium
+488933,pani Róża Sarota,57,Stargard Szczeciński,Gold
+664059,Sylwia Siemion,50,Bielsko-Biała,Standard
+543233,Miłosz Penkala,64,Gorzów Wielkopolski,Gold
+923628,Anita Mszyca,43,Łaziska Górne,Standard
+572684,Witold Stefanik,65,Przemyśl,Standard
+674943,Dawid Strug,31,Żagań,Premium
+659383,pani Kornelia Wiraszka,36,Otwock,Premium
+135196,pani Anita Wyderka,74,Tczew,Standard
+449983,pan Artur Kandzia,44,Piekary Śląskie,Premium
+104849,Maksymilian Poczta,53,Zgorzelec,Gold
+131757,Adrian Idzi,35,Sosnowiec,Standard
+718966,Igor Franas,75,Olkusz,Standard
+885081,pani Dorota Brachaczek,29,Żyrardów,Standard
+675077,Nikodem Druszcz,57,Nysa,Standard
+361220,Angelika Wacławiak,84,Bolesławiec,Standard
+298844,Witold Klatka,61,Ząbki,Gold
+738753,Sebastian Klyta,22,Żyrardów,Gold
+260174,Ksawery Szałkiewicz,62,Szczecinek,Standard
+229489,Kamila Bugla,78,Bielsk Podlaski,Standard
+928718,Nikodem Boba,74,Dębica,Gold
+860980,Konrad Wawszczak,44,Płońsk,Gold
+836436,Kamila Boba,51,Świnoujście,Premium
+569765,Janina Habdas,77,Kluczbork,Gold
+199550,Urszula Perlik,44,Suwałki,Gold
+399876,Karol Kościesza,60,Jaworzno,Gold
+626879,pani Aniela Stępak,32,Ostrowiec Świętokrzyski,Gold
+725814,pani Kamila Sykała,79,Kędzierzyn-Koźle,Standard
+193625,Dariusz Pawlos,77,Sopot,Standard
+793268,Tomasz Muskała,69,Kutno,Gold
+506956,Julita Szajner,34,Przemyśl,Gold
+986473,Norbert Maciejewicz,63,Mielec,Standard
+657739,Aleks Hamerla,52,Grodzisk Mazowiecki,Standard
+305363,Arkadiusz Trzyna,39,Żagań,Premium
+533281,Monika Łuczyk,36,Kołobrzeg,Gold
+655698,Olaf Grys,56,Kłodzko,Premium
+581766,Mariusz Reszke,53,Brodnica,Premium
+455734,pan Sebastian Kuświk,77,Legnica,Gold
+623151,Tadeusz Łapot,82,Kluczbork,Gold
+507158,Daniel Dybaś,43,Wrocław,Standard
+624127,Mateusz Skiepko,24,Myszków,Premium
+358030,Anna Maria Helman,32,Wodzisław Śląski,Gold
+368366,pani Kalina Chachaj,28,Sosnowiec,Premium
+470979,pan Michał Dudała,40,Mikołów,Premium
+269971,Ksawery Sztaba,75,Zgorzelec,Premium
+300660,pan Bruno Bartela,83,Chrzanów,Premium
+550504,Albert Małż,83,Biała Podlaska,Gold
+328087,Ernest Wojniak,57,Brodnica,Standard
+486296,pani Aurelia Skomra,72,Kraśnik,Gold
+656135,Juliusz Morgała,82,Oława,Standard
+622355,Leonard Kiszczak,35,Cieszyn,Gold
+977727,Adam Giel,21,Otwock,Gold
+290348,pani Gaja Bitner,64,Zabrze,Premium
+790113,Józef Lica,44,Szczecin,Gold
+594482,Klara Krzeszowiec,53,Szczytno,Gold
+245086,Sylwia Pabisiak,22,Chrzanów,Standard
+116565,pan Ignacy Rajczyk,71,Częstochowa,Gold
+214719,Dagmara Glazer,66,Mysłowice,Gold
+566175,Albert Foit,21,Ostróda,Standard
+389293,Witold Waraksa,46,Reda,Premium
+444855,Józef Bączkiewicz,60,Gorzów Wielkopolski,Premium
+268286,Natan Drop,43,Chełm,Standard
+209902,Szymon Mleczak,73,Grudziądz,Premium
+479561,Maksymilian Czapiga,77,Świecie,Gold
+301589,Olga Jargiło,29,Bochnia,Premium
+101289,Agnieszka Solarczyk,35,Przemyśl,Standard
+873971,pani Marcelina Niećko,63,Nowa Ruda,Standard
+842670,Marek Przewłoka,68,Tczew,Premium
+170154,Kazimierz Matla,43,Krotoszyn,Gold
+453551,Eliza Chaber,70,Świdnica,Premium
+989008,Eliza Zadworny,77,Świecie,Gold
+757191,pani Ida Bejm,65,Rumia,Gold
+927959,pan Daniel Zbylut,38,Olsztyn,Gold
+179934,Norbert Jaźwiec,24,Lublin,Gold
+219334,Kajetan Kaziród,74,Piaseczno,Standard
+889295,pan Igor Wojnicz,44,Zgorzelec,Premium
+101729,Maurycy Sośniak,61,Kętrzyn,Gold
+494487,Ryszard Kwapień,61,Piastów,Gold
+112332,pani Angelika Rogacz,52,Ruda Śląska,Standard
+693234,Jacek Godzik,25,Tarnobrzeg,Gold
+206054,Anna Maria Krzeszowiec,31,Lubin,Standard
+148701,Mariusz Jarmuła,36,Stargard Szczeciński,Gold
+458046,Karol Karwot,49,Przemyśl,Gold
+198384,pani Blanka Rejmak,68,Krosno,Gold
+973813,Mariusz Kobel,48,Kościan,Premium
+796236,Melania Kroll,77,Stalowa Wola,Standard
+795587,Sonia Morka,23,Oleśnica,Standard
+502491,pan Leonard Kubek,50,Bełchatów,Premium
+430697,Rozalia Gaudyn,59,Police,Premium
+231885,Sylwia Wenda,83,Pszczyna,Gold
+230128,pani Kalina Masiak,19,Kluczbork,Gold
+389369,pani Marianna Banachowicz,23,Koło,Gold
+595880,Dagmara Sado,78,Swarzędz,Standard
+283436,Gustaw Grys,36,Tarnowskie Góry,Standard
+116128,Mieszko Trąbka,40,Zielona Góra,Standard
+897890,Ewa Jeszke,37,Białystok,Premium
+475375,Inga Saj,26,Piotrków Trybunalski,Standard
+426650,Cyprian Wiciak,79,Ciechanów,Gold
+662627,Maksymilian Tadla,19,Iława,Premium
+823638,pani Marika Lepianka,69,Lublin,Standard
+882960,Róża Małyszek,80,Olkusz,Premium
+735981,Klara Żugaj,63,Dąbrowa Górnicza,Premium
+303329,pani Karina Pruchnik,77,Białogard,Premium
+202846,pan Miłosz Lamch,76,Ostrów Mazowiecka,Standard
+624407,pan Ignacy Rapa,74,Brodnica,Premium
+449048,pani Blanka Zawalich,69,Pruszków,Premium
+658434,pan Tomasz Tułacz,79,Jaworzno,Gold
+665640,Andrzej Michalczak,75,Jarosław,Premium
+283896,pani Janina Maszkiewicz,51,Żywiec,Standard
+689421,Andrzej Świtaj,60,Wałcz,Premium
+108589,pani Ewelina Krefta,68,Zawiercie,Standard
+354949,Sylwia Mich,38,Nowa Sól,Standard
+967955,pani Elżbieta Klinkosz,27,Chorzów,Premium
+502893,Nataniel Sudnik,21,Siedlce,Gold
+982424,pan Juliusz Gęgotek,58,Świdnica,Standard
+815295,Nela Patoka,75,Biłgoraj,Premium
+220468,Józef Grygo,35,Piotrków Trybunalski,Gold
+316170,pan Wojciech Misiurek,60,Swarzędz,Gold
+969156,Krystyna Więcławek,78,Włocławek,Standard
+626251,pan Borys Kosela,82,Nowa Ruda,Standard
+876551,pan Julian Macheta,48,Piotrków Trybunalski,Gold
+300875,Arkadiusz Krzempek,83,Mława,Gold
+413933,Krzysztof Kolendo,84,Mielec,Premium
+362297,Robert Janisz,35,Łowicz,Standard
+143326,Jan Cebo,53,Świętochłowice,Premium
+431685,pani Agnieszka Jaracz,77,Sanok,Standard
+635623,pani Marcelina Małas,35,Skierniewice,Premium
+142075,Jerzy Mętel,34,Czechowice-Dziedzice,Gold
+120805,Lidia Gogół,49,Pruszków,Standard
+544760,Tymon Chadaj,64,Nowa Sól,Standard
+547707,Robert Pietraszkiewicz,23,Goleniów,Standard
+613336,Aleksander Cylwik,28,Mielec,Gold
+791944,pani Blanka Osipowicz,40,Śrem,Gold
+682696,pan Tadeusz Żołądkiewicz,28,Piaseczno,Standard
+991033,pan Daniel Dycha,29,Koło,Premium
+932162,pan Ksawery Pytlarz,48,Nowy Targ,Gold
+787338,pani Ada Weremczuk,47,Stalowa Wola,Gold
+577257,Aleksander Hynek,29,Toruń,Premium
+704954,Dariusz Młyńczak,39,Polkowice,Standard
+258543,Sandra Koniec,41,Radom,Gold
+519431,Klara Górnisiewicz,23,Koszalin,Standard
+426823,Dorota Dycha,31,Lubartów,Premium
+150318,Kajetan Warych,51,Stalowa Wola,Gold
+442241,pani Blanka Deryło,20,Łomża,Premium
+904692,Marika Wawszczyk,30,Ostrowiec Świętokrzyski,Standard
+438524,Janina Wiercigroch,68,Słupsk,Gold
+905355,Kamila Krata,41,Ostrołęka,Standard
+873553,Krzysztof Hudzik,50,Chełm,Standard
+151668,Albert Protasiuk,18,Skawina,Standard
+693595,pan Szymon Wnuczek,75,Środa Wielkopolska,Standard
+244333,Adrian Mortka,42,Zabrze,Premium
+463526,Igor Ziarnik,18,Kłodzko,Gold
+975954,pani Ewa Pacia,79,Otwock,Gold
+682109,Szymon Świt,33,Łódź,Premium
+188442,Marcelina Grabas,57,Łowicz,Gold
+951994,pan Miłosz Kubiaczyk,68,Lubin,Premium
+701141,Łukasz Lelito,50,Żagań,Premium
+908127,Piotr Barszczak,64,Żary,Standard
+316917,pani Sandra Ciesielka,24,Bielawa,Standard
+759752,Justyna Postawa,33,Zamość,Premium
+242586,Aleks Jakóbik,45,Czerwionka-Leszczyny,Premium
+845389,Agnieszka Trojanek,70,Olkusz,Gold
+454533,Maurycy Moczko,51,Łomża,Standard
+543462,pan Sebastian Kuncewicz,72,Skarżysko-Kamienna,Standard
+890379,Fabian Berendt,49,Sanok,Premium
+990457,pan Dariusz Kamyk,84,Swarzędz,Standard
+949267,Szymon Pałęga,31,Wejherowo,Standard
+290359,Oskar Brańka,25,Jastrzębie-Zdrój,Premium
+810865,Dawid Hamerla,83,Wejherowo,Gold
+180383,pani Malwina Proch,66,Czechowice-Dziedzice,Premium
+670733,Olgierd Pacewicz,36,Tczew,Standard
+473916,pani Agnieszka Kudełka,65,Krotoszyn,Premium
+542167,Filip Sugier,43,Rybnik,Gold
+793889,pan Kacper Weremczuk,80,Radomsko,Gold
+581023,Borys Gruszczyk,19,Bolesławiec,Standard
+387585,pani Klara Boksa,36,Jasło,Premium
+265209,Jerzy Twardy,26,Gorlice,Gold
+276822,Kamil Turlej,53,Dzierżoniów,Gold
+422163,Alan Sztuczka,20,Turek,Gold
+937756,Oskar Palonek,62,Piła,Premium
+532617,Adrian Bobryk,72,Wągrowiec,Standard
+151425,pan Dariusz Anioła,52,Gniezno,Gold
+774430,Nikodem Siebert,60,Starogard Gdański,Premium
+749683,Tymon Danieluk,85,Racibórz,Gold
+346314,Aleks Kędziorek,18,Brzeg,Standard
+684367,pan Albert Maszota,40,Inowrocław,Premium
+970355,Andrzej Moryc,40,Leszno,Gold
+424739,Maks Pasiak,47,Kościerzyna,Gold
+197252,Iwo Pacholik,51,Pszczyna,Gold
+759862,Piotr Szłapa,58,Poznań,Gold
+508798,Janina Grzenia,55,Legionowo,Premium
+204861,Kazimierz Szajner,71,Lubliniec,Standard
+878367,Tomasz Reimann,41,Elbląg,Standard
+213150,Hubert Lenc,30,Głogów,Standard
+274366,Jacek Kukuczka,74,Kielce,Premium
+494882,pan Eryk Mytych,69,Zamość,Gold
+955620,pani Ewa Działo,31,Zambrów,Premium
+337313,Roksana Dyś,76,Kędzierzyn-Koźle,Standard
+288375,pani Anna Maria Kuder,63,Oświęcim,Gold
+680515,Witold Golan,76,Żagań,Gold
+952664,Aurelia Mikusek,29,Bielsk Podlaski,Gold
+382647,pan Maksymilian Parkitny,42,Czechowice-Dziedzice,Standard
+465998,Jerzy Kut,81,Otwock,Gold
+928283,Inga Żugaj,21,Sopot,Gold
+875933,Tola Boguś,64,Gorlice,Gold
+817309,Witold Sudnik,50,Elbląg,Premium
+950077,Szymon Roszkiewicz,21,Chełm,Premium
+168215,Kamila Kosno,73,Dąbrowa Górnicza,Gold
+155381,Rozalia Gwardiak,49,Skarżysko-Kamienna,Gold
+705010,pani Gaja Dub,50,Ząbki,Premium
+471743,pani Inga Kucharzyk,51,Koszalin,Standard
+398724,Malwina Piejko,37,Łuków,Standard
+710407,pani Melania Stożek,38,Police,Premium
+977153,Andrzej Rzońca,35,Leszno,Gold
+896973,Robert Naczk,30,Pszczyna,Premium
+797077,Gustaw Anders,62,Zakopane,Gold
+967580,Anastazja Słupek,43,Stalowa Wola,Standard
+540443,Julita Pietrusiewicz,24,Łomża,Gold
+680452,Alan Jurczuk,75,Giżycko,Premium
+633184,Rafał Mrózek,75,Koło,Premium
+960876,Albert Dyjach,28,Łódź,Premium
+631187,Julian Wałek,63,Toruń,Standard
+176294,Daniel Knysak,24,Jasło,Gold
+496379,Julian Kożuszek,57,Nowy Sącz,Standard
+548087,Aniela Sieja,35,Grodzisk Mazowiecki,Standard
+277971,Józef Jurczuk,58,Zgorzelec,Gold
+608107,Kalina Gwardiak,22,Kościan,Premium
+561957,Jędrzej Pancerz,46,Stalowa Wola,Premium
+893169,pani Janina Lenda,37,Poznań,Standard
+666297,Sebastian Łęgowik,40,Wyszków,Gold
+538999,Apolonia Cłapa,41,Zamość,Standard
+223103,Hubert Wojtaszczyk,67,Pruszcz Gdański,Standard
+324447,Michał Mały,77,Jawor,Standard
+720683,Bianka Śliż,37,Piastów,Standard
+618338,Alan Madziar,31,Piła,Standard
+826077,Marika Podeszwa,28,Skawina,Premium
+166351,Ewelina Fras,25,Jastrzębie-Zdrój,Premium
+919066,Paweł Wietecha,22,Dąbrowa Górnicza,Standard
+773420,Miłosz Miśko,36,Zielona Góra,Standard
+185681,pani Kornelia Owsiak,62,Wrocław,Gold
+229264,Marcelina Nieradzik,28,Kraśnik,Gold
+604745,Inga Janiszek,69,Płock,Premium
+903128,Mateusz Turczyk,53,Polkowice,Gold
+536765,Ignacy Dybiec,59,Legnica,Gold
+527347,Norbert Raszkiewicz,79,Kluczbork,Premium
+221903,Mieszko Kryszczuk,85,Bielsko-Biała,Standard
+553329,Melania Lejk,49,Tychy,Standard
+576022,Stanisław Warmuz,82,Tychy,Gold
+746638,Sandra Puła,55,Oława,Standard
+845124,Leonard Fura,38,Ząbki,Gold
+587254,Aurelia Hajdasz,64,Sopot,Standard
+512414,Maurycy Babiuch,24,Zakopane,Standard
+204097,pani Olga Zbylut,59,Kędzierzyn-Koźle,Gold
+932535,Julian Buława,63,Ruda Śląska,Premium
+244048,Olgierd Ulewicz,56,Lublin,Premium
+534482,Marcelina Karczmarek,51,Żywiec,Standard
+610175,Kalina Kiełbus,72,Elbląg,Standard
+797766,Filip Bociek,72,Piekary Śląskie,Standard
+955739,Kornelia Matulka,61,Dzierżoniów,Standard
+396822,Grzegorz Łaszczyk,50,Łomża,Standard
+158018,pan Robert Dziadkiewicz,67,Chełm,Premium
+405408,pan Antoni Zawal,51,Elbląg,Gold
+118360,Nataniel Fulara,36,Ełk,Standard
+419295,Krzysztof Holc,24,Tarnów,Gold
+590540,Mikołaj Haremza,22,Białystok,Gold
+334948,pani Rozalia Budkiewicz,20,Białystok,Premium
+927512,Alex Dzikiewicz,35,Kluczbork,Premium
+418412,Malwina Kubek,48,Częstochowa,Standard
+486932,Kamil Szmurło,50,Rumia,Standard
+564158,Norbert Szmagaj,27,Ruda Śląska,Premium
+885829,pan Gabriel Sojda,27,Tomaszów Mazowiecki,Premium
+141507,Julita Bazela,38,Bydgoszcz,Standard
+367891,Maks Buza,73,Czeladź,Gold
+130875,pani Tola Mordal,46,Ostrowiec Świętokrzyski,Gold
+841447,Roksana Mularz,28,Ciechanów,Gold
+137952,Damian Żołądź,81,Ząbki,Gold
+750239,Mariusz Rosłoń,28,Września,Gold
+967770,pani Róża Sabak,78,Dzierżoniów,Premium
+395232,Aleks Pachołek,41,Pabianice,Gold
+519120,Julianna Bernatek,39,Głogów,Standard
+850038,Olga Kossak,70,Mielec,Gold
+158419,Przemysław Łuszczyk,80,Świecie,Premium
+406948,pani Marianna Szatko,72,Nowa Ruda,Gold
+282235,Aleks Pytlarz,23,Dąbrowa Górnicza,Standard
+344963,pani Sonia Pawełkiewicz,77,Ostrów Wielkopolski,Premium
+654875,pan Cezary Znojek,59,Gdynia,Standard
+309078,Maks Betlej,41,Bochnia,Gold
+531779,Julianna Murat,57,Opole,Standard
+486100,Klara Podgórny,76,Środa Wielkopolska,Premium
+994821,Emil Borysiuk,34,Żagań,Gold
+804353,pani Aniela Klaja,72,Ostrów Mazowiecka,Premium
+242554,Nicole Fuławka,84,Elbląg,Premium
+137961,Adrian Knysak,29,Cieszyn,Standard
+991956,Liwia Grochowina,67,Ełk,Premium
+972811,Przemysław Tokaj,34,Ostrów Wielkopolski,Premium
+500400,Kajetan Halama,26,Żory,Standard
+715951,Sonia Mleczak,24,Sosnowiec,Premium
+773118,Ryszard Drzał,53,Ostrołęka,Gold
+619860,Justyna Sendor,42,Zielona Góra,Gold
+923841,Tomasz Pyzel,62,Brzeg,Standard
+371727,Sonia Luberda,32,Legnica,Gold
+705029,Urszula Wochnik,43,Pabianice,Gold
+269805,pan Emil Bernatek,32,Czechowice-Dziedzice,Standard
+933837,Mateusz Buksa,60,Żagań,Premium
+967528,pani Elżbieta Tylka,58,Luboń,Gold
+142386,Kornel Hałka,64,Lubliniec,Premium
+827145,pani Sonia Fugiel,24,Sochaczew,Gold
+291952,Kazimierz Ciarka,44,Kraśnik,Gold
+484732,Kacper Chlebda,80,Bytom,Gold
+731448,Mikołaj Pilarek,21,Szczecinek,Standard
+223099,Daniel Burkiewicz,46,Biłgoraj,Standard
+472208,Kornel Jarema,48,Rzeszów,Standard
+749063,Kornelia Bździuch,26,Zduńska Wola,Standard
+521116,Maks Paździora,65,Jelenia Góra,Standard
+391988,Maciej Joszko,38,Ostróda,Gold
+380750,Julianna Zgoła,18,Wałcz,Standard
+326873,Piotr Niedojadło,66,Rybnik,Gold
+367296,pani Nela Wojtczuk,35,Bydgoszcz,Premium
+507921,Paweł Joniak,71,Stalowa Wola,Premium
+511426,Konrad Hamera,63,Kędzierzyn-Koźle,Premium
+984567,Alex Wesoły,66,Racibórz,Standard
+460888,pan Jeremi Wijata,60,Szczytno,Gold
+290992,Oskar Garbacik,76,Jaworzno,Gold
+202324,Agnieszka Nicewicz,35,Brodnica,Gold
+917784,Jerzy Bujko,45,Kościan,Gold
+598750,pani Elżbieta Kuster,52,Olsztyn,Premium
+756005,Oskar Starostka,45,Żagań,Premium
+882452,pan Maciej Becker,83,Kętrzyn,Gold
+457846,Sylwia Bukowiec,73,Nowa Sól,Premium
+189491,Kamila Pęksa,78,Nowa Sól,Gold
+976312,Natan Skutnik,44,Zgierz,Gold
+738258,Sylwia Pacura,45,Mikołów,Standard
+735794,pani Sandra Masny,27,Nowy Sącz,Standard
+221604,Błażej Ceran,47,Starachowice,Standard
+324125,pan Leonard Bugno,68,Ełk,Premium
+439824,Eliza Czubaj,40,Częstochowa,Standard
+104619,pan Konrad Chalimoniuk,70,Pruszcz Gdański,Premium
+554999,pani Julita Jaśkowiec,71,Łódź,Standard
+848358,Kazimierz Knych,85,Nowa Sól,Gold
+176957,pan Leonard Ciepła,47,Racibórz,Gold
+283817,pan Dominik Czerkies,68,Kłodzko,Premium
+830088,Oskar Cierpisz,51,Lublin,Standard
+647330,Marcin Giers,35,Żary,Standard
+459680,Rafał Domińczak,23,Suwałki,Premium
+262619,Krystian Owsianka,42,Żory,Gold
+917699,Aleksander Startek,26,Suwałki,Premium
+366443,Monika Kopyść,76,Nowa Sól,Gold
+339554,pan Kornel Celuch,75,Jarosław,Gold
+918798,Natan Kolonko,82,Ciechanów,Gold
+986492,Jerzy Trzpil,30,Dębica,Standard
+528253,Kalina Gosek,38,Ostrów Wielkopolski,Premium
+326313,pan Antoni Gasek,84,Łaziska Górne,Gold
+542507,Artur Pastor,23,Bolesławiec,Standard
+830404,Karol Cyman,37,Nysa,Premium
+860067,pani Monika Żołądkiewicz,30,Białystok,Gold
+688550,pani Justyna Posłuszny,43,Jawor,Premium
+375135,Agnieszka Konsek,80,Tczew,Gold
+403058,Przemysław Grzegorzak,56,Koło,Standard
+728106,Monika Szwaja,72,Nowy Targ,Gold
+731284,Elżbieta Pilich,54,Mysłowice,Standard
+400657,pan Nikodem Kunka,80,Zgorzelec,Premium
+960168,Urszula Strojna,55,Tomaszów Mazowiecki,Standard
+146422,Tadeusz Ofiara,83,Malbork,Premium
+284392,pan Dariusz Uryga,33,Kielce,Premium
+239355,pan Gustaw Lica,20,Piotrków Trybunalski,Standard
+669097,Agnieszka Kramer,51,Malbork,Premium
+132677,Szymon Droździk,34,Tomaszów Mazowiecki,Premium
+677394,Ksawery Makurat,79,Lublin,Standard
+685845,pan Ryszard Opas,69,Stalowa Wola,Standard
+159714,pan Filip Rurarz,57,Siemianowice Śląskie,Premium
+560180,Maksymilian Pudełek,75,Legnica,Premium
+221894,pani Agnieszka Pacyga,60,Czeladź,Standard
+613205,Karol Kierat,68,Płońsk,Gold
+106239,Oskar Antoszczyk,21,Jarocin,Standard
+947145,pani Ida Bilik,28,Rumia,Standard
+796153,Tomasz Kozar,38,Kutno,Gold
+172741,Julita Nitkiewicz,80,Malbork,Standard
+909036,Borys Krzan,51,Pruszcz Gdański,Gold
+184764,Karol Solis,58,Piaseczno,Standard
+472493,Grzegorz Pyda,61,Gdańsk,Standard
+323068,Miłosz Łęgowik,69,Świdnica,Gold
+930916,Andrzej Fugiel,60,Oleśnica,Standard
+337740,pani Ewa Buś,65,Ostrołęka,Standard
+637695,Rozalia Foit,52,Łuków,Gold
+727052,pan Fabian Suszko,30,Kędzierzyn-Koźle,Gold
+919143,Aurelia Leszczyk,55,Wałbrzych,Standard
+342139,pani Kamila Pokusa,65,Nowa Sól,Premium
+363151,pani Olga Bąkiewicz,49,Brodnica,Premium
+384673,Arkadiusz Pasieczna,23,Zduńska Wola,Premium
+356638,pan Marcin Wydrych,41,Kościan,Standard
+222026,pani Bianka Kasperczak,42,Lębork,Standard
+326283,Aurelia Łachacz,41,Gdańsk,Gold
+731076,Sonia Owsiany,25,Wieluń,Gold
+408255,Dominik Kamela,31,Kutno,Premium
+977107,Ada Młynarz,40,Zduńska Wola,Gold
+186781,Gaja Nogieć,40,Chorzów,Standard
+198045,pan Marek Kulon,76,Wołomin,Gold
+456801,Justyna Zaguła,67,Nowy Targ,Gold
+818972,pan Tadeusz Lindner,28,Mysłowice,Premium
+809630,Wojciech Giedrojć,58,Legionowo,Premium
+443508,Karol Okraska,81,Śrem,Gold
+362079,pani Ewa Staś,75,Lubartów,Standard
+636163,Sebastian Stosio,53,Płońsk,Premium
+746967,Kacper Warmuz,60,Otwock,Premium
+723570,pani Anastazja Kielczyk,69,Tychy,Premium
+690532,pani Dagmara Szeja,34,Rumia,Standard
+373102,Przemysław Mrotek,25,Puławy,Gold
+382370,Hubert Dukat,58,Bartoszyce,Gold
+291734,Kamil Matulka,61,Cieszyn,Standard
+607705,Maciej Frelek,72,Czeladź,Standard
+528783,Jeremi Freitag,27,Goleniów,Standard
+857820,Konstanty Smętek,71,Goleniów,Standard
+855501,Ewa Patyna,28,Tychy,Premium
+412282,Oskar Wołczyk,73,Toruń,Gold
+226268,Leonard Rezler,35,Wyszków,Premium
+537389,Ernest Wojtunik,20,Gliwice,Standard
+576851,Cezary Jaszcz,38,Żary,Standard
+736451,Bianka Perczak,73,Chrzanów,Premium
+393552,Antoni Pyś,64,Szczecinek,Gold
+584921,Tobiasz Zapora,44,Oświęcim,Gold
+837995,pani Nela Żynda,81,Czechowice-Dziedzice,Gold
+339047,Olgierd Siergiej,79,Kalisz,Gold
+136199,Stefan Jędrzejek,35,Siedlce,Standard
+636436,Klara Kapinos,56,Grudziądz,Premium
+747195,Rafał Bojarczuk,61,Racibórz,Standard
+936591,Jan Czubaj,39,Wodzisław Śląski,Premium
+102478,Aleks Ligenza,57,Poznań,Gold
+734196,pani Marcelina Miętus,40,Rumia,Standard
+883072,Cyprian Sołek,58,Suwałki,Standard
+989738,Dawid Lipok,85,Mińsk Mazowiecki,Gold
+706112,Alan Mszyca,24,Legionowo,Standard
+487202,pani Dagmara Pych,53,Kędzierzyn-Koźle,Gold
+876952,Miłosz Niemczuk,54,Ząbki,Gold
+356321,Eliza Drewicz,79,Tychy,Premium
+805281,Bianka Tabiś,68,Bartoszyce,Premium
+216246,pani Sandra Fuławka,24,Oleśnica,Standard
+102771,Marika Mainka,70,Łowicz,Standard
+507617,Mikołaj Nitek,24,Wałbrzych,Gold
+869377,Alan Tworzydło,51,Jawor,Standard
+173921,pan Paweł Kamyk,68,Bielawa,Premium
+720152,Inga Szymańczak,74,Konin,Premium
+421212,Tobiasz Prokurat,44,Sopot,Premium
+951818,Witold Bujas,66,Mielec,Standard
+236041,Kajetan Komperda,63,Białystok,Standard
+397511,Adrian Fidler,51,Gniezno,Premium
+361262,Eryk Choroś,55,Gdynia,Gold
+346444,Rafał Karpiel,32,Gniezno,Gold
+327634,Tola Maślach,53,Rzeszów,Premium
+159584,Mateusz Linda,28,Inowrocław,Standard
+182667,Aurelia Szymajda,37,Chojnice,Standard
+627821,pan Łukasz Błażejak,40,Warszawa,Premium
+704546,Ignacy Glaza,20,Zabrze,Standard
+732001,Albert Nurkiewicz,20,Gdynia,Premium
+125392,pan Kazimierz Salawa,26,Skierniewice,Standard
+667993,Julian Szram,83,Starogard Gdański,Standard
+792469,Jacek Jeszke,75,Jastrzębie-Zdrój,Premium
+932990,Dagmara Hynek,41,Głogów,Gold
+454553,Miłosz Kuba,48,Gdynia,Gold
+293710,Klara Kolarz,64,Wałcz,Standard
+436082,Olgierd Pajek,39,Leszno,Standard
+256831,Witold Szałaj,67,Dębica,Premium
+644847,Elżbieta Chłąd,75,Goleniów,Premium
+602341,Konstanty Skiepko,50,Biłgoraj,Gold
+805630,Blanka Bereda,23,Nowy Dwór Mazowiecki,Gold
+295870,Lidia Bany,35,Lubliniec,Premium
+365101,Damian Zacharewicz,47,Kędzierzyn-Koźle,Gold
+946573,Łukasz Roś,34,Wieluń,Premium
+832293,pani Inga Rykała,77,Krosno,Gold
+590726,Olgierd Rezmer,38,Lubin,Standard
+756557,pan Dominik Raba,80,Tarnowskie Góry,Premium
+521340,pan Norbert Józwik,18,Jawor,Premium
+308017,pani Aniela Zdancewicz,48,Koło,Standard
+903652,Sylwia Posłuszny,45,Otwock,Standard
+612267,Leonard Swiątek,59,Nowy Sącz,Gold
+854673,Anastazja Budniak,63,Kwidzyn,Premium
+934799,pani Justyna Dziopa,63,Zakopane,Gold
+882498,pani Nicole Batóg,53,Oświęcim,Gold
+626204,pani Sandra Musiała,46,Giżycko,Gold
+326066,pani Anastazja Sanetra,47,Kętrzyn,Premium
+318928,Juliusz Bulanda,69,Bielawa,Gold
+441154,Maksymilian Chaberek,18,Tomaszów Mazowiecki,Standard
+260717,Sylwia Mitoraj,62,Sandomierz,Gold
+512615,Elżbieta Czubaj,50,Kościan,Gold
+819798,Artur Thomas,75,Kłodzko,Standard
+752896,Tymon Małż,37,Turek,Standard
+192954,Blanka Zinkiewicz,80,Żyrardów,Standard
+833117,Miłosz Labudda,85,Nysa,Standard
+422774,Adam Błażejewicz,37,Czeladź,Gold
+512445,Gustaw Wojewódka,75,Siedlce,Standard
+928933,Aurelia Huczek,83,Łaziska Górne,Premium
+248159,Aleksander Pazoła,59,Kalisz,Premium
+245875,Kornelia Kiciak,51,Dąbrowa Górnicza,Standard
+503124,Michał Damek,55,Lubin,Standard
+543323,pan Szymon Samoraj,85,Biała Podlaska,Premium
+423244,Franciszek Jędral,31,Piła,Premium
+858551,Oliwier Szczudło,81,Kalisz,Standard
+594133,Borys Styrna,50,Łowicz,Gold
+176095,Mikołaj Szmurło,32,Iława,Premium
+326905,pani Adrianna Drewnik,45,Tomaszów Mazowiecki,Gold
+517930,Albert Zdobylak,63,Koszalin,Premium
+870516,Filip Maligłówka,57,Skierniewice,Standard
+610959,pan Radosław Budzyń,32,Tarnowskie Góry,Premium
+217321,Dariusz Pachołek,71,Chorzów,Standard
+714657,Norbert Hołubowicz,74,Wodzisław Śląski,Premium
+314063,Leon Wawrzeńczyk,26,Wągrowiec,Gold
+659844,Dagmara Dumin,79,Wołomin,Gold
+964803,Konstanty Lesisz,79,Puławy,Standard
+248641,Mikołaj Glenc,68,Bochnia,Gold
+966630,Nela Rajtar,82,Brzeg,Gold
+229898,pan Kazimierz Szymula,79,Dąbrowa Górnicza,Gold
+280129,pan Ernest Kudełka,29,Nysa,Gold
+885926,Tola Knapek,85,Włocławek,Gold
+808638,pani Sara Madzia,38,Lubliniec,Premium
+585578,Julita Wiech,69,Szczecinek,Premium
+859392,Roksana Laszuk,77,Rumia,Premium
+146920,Jerzy Bogusiewicz,41,Gniezno,Premium
+101665,pan Iwo Bulak,75,Lubliniec,Premium
+946019,Maurycy Rozum,46,Siedlce,Gold
+846637,pan Józef Pszczółka,76,Czeladź,Gold
+894724,Kamil Tyma,51,Piaseczno,Premium
+703338,Maurycy Domińczak,18,Wołomin,Premium
+726782,Alan Koronkiewicz,42,Myszków,Gold
+441538,Mariusz Feliksiak,35,Police,Standard
+454211,Fryderyk Grzebyk,42,Stargard Szczeciński,Standard
+364603,Dariusz Zaraś,69,Ciechanów,Standard
+942393,Alex Beck,25,Dąbrowa Górnicza,Gold
+347582,pan Dawid Jaremko,38,Nowy Sącz,Premium
+165360,Marcelina Koniecko,71,Wołomin,Gold
+932778,Urszula Kremer,42,Krosno,Premium
+829311,Marcelina Pabiś,66,Gniezno,Premium
+430743,Julianna Woroch,58,Szczecinek,Premium
+156375,Sebastian Grygorowicz,51,Żory,Standard
+707583,Melania Witoń,30,Kętrzyn,Standard
+393060,Monika Burchard,25,Lubartów,Premium
+970364,Adam Budner,85,Radomsko,Gold
+396920,pani Justyna Florian,54,Toruń,Standard
+991063,Kaja Bujko,80,Wołomin,Premium
+249833,Kajetan Denkiewicz,52,Katowice,Standard
+375450,Józef Dziadkowiec,26,Ostrów Mazowiecka,Premium
+361452,Michał Małyszek,41,Sosnowiec,Standard
+517781,pan Stanisław Frelek,81,Białystok,Gold
+966590,Dagmara Sobiło,36,Biłgoraj,Premium
+681504,Blanka Wasiewicz,53,Grodzisk Mazowiecki,Standard
+206842,Michał Kopa,83,Zabrze,Standard
+287387,Miłosz Kolanko,83,Płońsk,Standard
+748554,Dominik Sapa,58,Lublin,Standard
+649293,pani Justyna Leks,29,Radom,Gold
+595191,pan Eryk Walentynowicz,33,Leszno,Gold
+573647,Marianna Wężyk,49,Tarnów,Standard
+910223,pan Maksymilian Gerlach,53,Gorzów Wielkopolski,Standard
+491873,pan Aleks Pośnik,47,Sandomierz,Standard
+963607,Damian Kusio,76,Turek,Premium
+898014,Bartek Szwaja,73,Suwałki,Gold
+317864,Hubert Ulrych,50,Stalowa Wola,Premium
+670538,Tomasz Darul,51,Nowy Sącz,Standard
+370997,Dawid Knieć,82,Czeladź,Premium
+290938,Ewelina Bembenek,80,Środa Wielkopolska,Gold
+891590,pani Dorota Baszak,83,Sosnowiec,Gold
+137954,Szymon Kliber,46,Kraśnik,Gold
+458902,Mariusz Koss,46,Mińsk Mazowiecki,Gold
+357031,pan Antoni Słyk,79,Jarosław,Standard
+212985,Miłosz Kruzel,22,Brzeg,Standard
+165652,pan Witold Naglik,55,Bielawa,Gold
+486619,pan Stanisław Kudra,71,Śrem,Premium
+783628,Radosław Pęksa,49,Szczecin,Premium
+239668,Kamil Klęczar,37,Olkusz,Gold
+389268,Eliza Imiołczyk,49,Starogard Gdański,Gold
+238346,Tadeusz Franas,24,Jarosław,Premium
+890058,pani Sonia Pastucha,45,Katowice,Gold
+862908,Apolonia Szwaja,23,Zabrze,Premium
+922266,Krzysztof Ignatiuk,60,Koszalin,Gold
+400490,pan Szymon Matyjaszek,49,Ruda Śląska,Premium
+170581,pani Kalina Koterba,84,Chrzanów,Standard
+894445,Bruno Miszkiewicz,24,Sochaczew,Gold
+678218,Juliusz Bakun,59,Gniezno,Gold
+338568,Dagmara Maksimowicz,52,Otwock,Gold
+563592,Jeremi Elwart,55,Pabianice,Standard
+155738,pan Patryk Lichoń,81,Żyrardów,Standard
+573237,pani Marianna Borysiak,63,Środa Wielkopolska,Standard
+380555,Maciej Gosik,31,Nysa,Premium
+635159,Klara Jędrusiak,35,Tomaszów Mazowiecki,Standard
+913513,pani Krystyna Jędrasiak,19,Suwałki,Standard
+416819,pan Szymon Dorociak,47,Pruszcz Gdański,Standard
+277599,pan Tymon Matyjaszek,67,Żary,Premium
+607068,Melania Ligenza,39,Żagań,Gold
+269252,pani Rozalia Podpora,29,Rumia,Gold
+604102,pani Sonia Żołądź,18,Będzin,Standard
+834097,pani Blanka Mendak,19,Gdańsk,Standard
+223744,Franciszek Kubaczyk,45,Grodzisk Mazowiecki,Premium
+445329,pan Jan Mądrzak,59,Brodnica,Premium
+198491,pani Eliza Bojdo,60,Rzeszów,Gold
+743668,Mateusz Stempel,75,Gdynia,Standard
+742356,Sonia Fedyk,24,Tczew,Standard
+681703,pani Bianka Kalista,63,Tczew,Gold
+441795,pan Grzegorz Szymaniuk,61,Łowicz,Gold
+931554,pani Adrianna Mostek,38,Łowicz,Gold
+242369,pan Daniel Burczak,83,Wodzisław Śląski,Premium
+135351,pan Maks Kusek,20,Wołomin,Standard
+807995,Adam Kowaluk,50,Czeladź,Gold
+638904,Norbert Bojdo,59,Swarzędz,Premium
+953714,pan Iwo Słobodzian,78,Lębork,Premium
+915701,Fryderyk Trybała,73,Skierniewice,Standard
+392194,Aurelia Nieradzik,46,Koło,Premium
+248523,Dariusz Fidura,64,Brzeg,Premium
+826042,Bruno Stożek,49,Racibórz,Gold
+558043,pan Ryszard Salomon,58,Czerwionka-Leszczyny,Gold
+619566,Bianka Dybaś,58,Nowa Sól,Premium
+564087,Liwia Zbrożek,31,Pabianice,Standard
+358743,pan Witold Dyszkiewicz,36,Luboń,Standard
+993013,Emil Polnik,72,Katowice,Premium
+763361,Emil Cherek,18,Kalisz,Premium
+466060,pani Karina Dawidczyk,52,Kluczbork,Premium
+442266,pani Aurelia Józefczak,40,Opole,Standard
+780679,pani Ewelina Nijak,23,Dębica,Premium
+756278,Maciej Steinke,56,Wodzisław Śląski,Premium
+129276,Miłosz Ostapiuk,85,Mysłowice,Standard
+185791,Sonia Paszkowiak,34,Chojnice,Premium
+548128,Fabian Cisoń,34,Sochaczew,Gold
+566483,Marcel Choina,58,Kielce,Gold
+630275,Dominik Gregorek,55,Dębica,Gold
+967169,Stanisław Słowiak,81,Brodnica,Premium
+568188,Kamil Fedyk,46,Bielsk Podlaski,Gold
+178128,Marcel Jędra,38,Myszków,Gold
+658488,Jakub Andreasik,66,Świebodzice,Standard
+168233,Julian Grzebyk,23,Ełk,Premium
+308329,Kamila Cacko,22,Kraków,Standard
+697584,Leon Czak,29,Gliwice,Standard
+814100,Marcelina Soroko,40,Nowy Targ,Standard
+266617,pan Łukasz Parkitny,31,Żagań,Gold
+880789,Piotr Misztela,34,Jarosław,Premium
+890968,Julianna Forysiak,84,Reda,Standard
+147949,pan Igor Niechciał,82,Żywiec,Gold
+212716,Józef Linda,47,Rybnik,Standard
+737343,Kacper Świątkiewicz,64,Mysłowice,Premium
+414909,pani Justyna Szkoda,79,Mielec,Gold
+953115,Dominik Ciereszko,73,Leszno,Standard
+889883,Borys Osojca,49,Skarżysko-Kamienna,Standard
+738748,Patryk Jeżyna,72,Żory,Standard
+349233,Artur Korzonek,44,Myszków,Premium
+874936,pani Gaja Hapka,18,Brodnica,Premium
+858384,Leon Czuryło,84,Bydgoszcz,Standard
+471459,Marcelina Narożna,36,Płońsk,Premium
+798142,Wiktor Grygorowicz,24,Nowy Dwór Mazowiecki,Premium
+459626,Arkadiusz Łabaj,74,Goleniów,Premium
+305076,pani Ida Nagórka,32,Radom,Gold
+693536,Kamila Józefczak,23,Szczytno,Premium
+750347,Janina Żugaj,75,Zakopane,Premium
+155225,Lidia Kupidura,34,Bartoszyce,Premium
+181925,Natan Cich,21,Kościerzyna,Standard
+296404,Daniel Haponiuk,76,Czechowice-Dziedzice,Premium
+228177,pan Juliusz Świątkiewicz,68,Tarnobrzeg,Premium
+412305,pan Krzysztof Olas,56,Jaworzno,Gold
+299570,Sara Flasza,72,Bochnia,Standard
+955298,Malwina Borysiak,55,Polkowice,Standard
+442326,pani Ewa Łyskawa,33,Chorzów,Gold
+293998,pan Konrad Opyrchał,32,Zawiercie,Premium
+301907,pan Daniel Kudłacik,54,Stargard Szczeciński,Gold
+618949,pani Ada Bakalarczyk,34,Wągrowiec,Gold
+673759,Dorota Zacharczuk,34,Swarzędz,Premium
+648934,pani Krystyna Darul,85,Elbląg,Standard
+115942,Andrzej Dorobisz,65,Warszawa,Premium
+864200,pan Jakub Młocek,57,Starachowice,Gold
+225838,Dominik Pabis,27,Elbląg,Standard
+487926,Antoni Cetera,69,Wągrowiec,Standard
+136674,pan Marcin Kokosza,73,Kutno,Premium
+175902,pani Kalina Madura,75,Szczecinek,Premium
+996193,Eryk Wasiuk,22,Nowa Ruda,Gold
+995856,Jerzy Giec,52,Wejherowo,Premium
+155879,Adrianna Sycz,36,Skarżysko-Kamienna,Premium
+324902,pani Marika Stąpor,55,Zambrów,Standard
+367003,pan Ignacy Piątkiewicz,42,Śrem,Premium
+231804,Tymoteusz Biernacik,53,Gdynia,Premium
+285971,Tadeusz Siewert,83,Mysłowice,Standard
+216985,Bruno Steckiewicz,48,Kraków,Standard
+272704,Anastazja Cyrulik,55,Będzin,Premium
+805879,Angelika Zaucha,38,Legionowo,Gold
+913863,pan Maciej Kusio,71,Pruszków,Standard
+700330,Filip Karol,46,Zielona Góra,Gold
+184276,pan Antoni Morys,20,Kętrzyn,Gold
+225013,Marcelina Dudkowiak,50,Piła,Premium
+432815,Marek Rode,63,Świdnica,Premium
+447124,Maksymilian Swiątek,63,Jawor,Standard
+713444,Eliza Krywult,38,Goleniów,Standard
+195899,pani Eliza Witko,77,Mikołów,Standard
+300967,pan Mieszko Dela,62,Bielsko-Biała,Standard
+265445,pani Kalina Matulewicz,63,Gorlice,Standard
+456563,Kaja Waloszczyk,83,Bielsko-Biała,Gold
+230275,pani Adrianna Pancerz,71,Ostróda,Gold
+605124,pani Ada Bieniak,38,Żagań,Premium
+415179,Arkadiusz Drela,37,Nowa Sól,Standard
+882763,Ryszard Lalak,76,Gniezno,Premium
+548909,Tymoteusz Kosela,70,Jarosław,Gold
+970864,pani Anna Maria Moniuszko,40,Gdańsk,Premium
+236623,pani Marika Świerkosz,82,Tomaszów Mazowiecki,Premium
+506674,pan Arkadiusz Bociek,67,Łódź,Standard
+605462,Marcelina Graś,79,Nowa Sól,Standard
+303001,Adrian Trzpil,82,Jastrzębie-Zdrój,Premium
+282469,Mieszko Golisz,23,Legnica,Standard
+703799,Wiktor Teterycz,34,Zduńska Wola,Premium
+456104,Leonard Żuberek,85,Bochnia,Gold
+912849,Konrad Wołoszyk,33,Jawor,Premium
+532165,pan Maurycy Samulak,61,Ostrów Wielkopolski,Standard
+916077,Nicole Kręgiel,65,Jawor,Standard
+458065,Hubert Sznura,43,Zduńska Wola,Premium
+397005,Rafał Kupś,54,Sieradz,Gold
+300935,pani Nela Kuba,55,Oleśnica,Premium
+987121,Anastazja Hejduk,71,Nowy Dwór Mazowiecki,Gold
+861600,Natan Kozieja,54,Słupsk,Premium
+644801,Liwia Suchora,29,Kraków,Standard
+900302,Ernest Stefankiewicz,33,Bielsk Podlaski,Standard
+673734,Karina Ryznar,25,Mława,Premium
+150342,Rafał Jeszka,26,Piaseczno,Standard
+611735,Dariusz Józefczak,76,Zgierz,Premium
+372543,Mariusz Potęga,31,Mikołów,Gold
+752414,Iwo Wilkos,69,Słupsk,Premium
+450640,Krzysztof Ochota,47,Czechowice-Dziedzice,Gold
+252510,pan Tadeusz Koterba,34,Polkowice,Gold
+837840,pan Paweł Kołodziejak,79,Lubliniec,Premium
+650196,pani Angelika Magier,28,Skierniewice,Premium
+341011,Jakub Ryczko,41,Łaziska Górne,Gold
+296622,pan Oskar Kopczyk,36,Iława,Premium
+672689,Cezary Rychel,21,Police,Standard
+942700,Tobiasz Kossak,60,Nowy Dwór Mazowiecki,Standard
+532546,Ignacy Kożuszek,72,Ząbki,Premium
+420785,Fryderyk Korta,39,Nowa Ruda,Standard
+688625,Malwina Broniarek,50,Koło,Premium
+722893,pani Eliza Buszka,43,Kalisz,Standard
+866148,pan Przemysław Łudzik,54,Legnica,Premium
+869714,Mikołaj Giersz,53,Żagań,Standard
+664169,Juliusz Witko,27,Ostróda,Standard
+976046,Artur Bernard,42,Szczecinek,Standard
+466825,Hubert Żynda,22,Płock,Standard
+203132,Gaja Kobel,18,Wieluń,Premium
+516247,Arkadiusz Wawrzkiewicz,29,Olkusz,Premium
+339671,Karol Wiesiołek,60,Pruszcz Gdański,Standard
+942948,Lidia Romejko,75,Stalowa Wola,Standard
+629595,Grzegorz Szczepan,50,Bydgoszcz,Standard
+713617,pani Roksana Morek,57,Chojnice,Gold
+149188,Łukasz Hirsch,62,Świecie,Premium
+364822,Sandra Ciarka,20,Ruda Śląska,Standard
+944252,Blanka Noszczyk,18,Rumia,Gold
+383486,Stanisław Szlachcic,20,Biłgoraj,Gold
+722466,Hubert Groń,69,Pruszcz Gdański,Premium
+921125,pan Grzegorz Ulewicz,33,Białogard,Gold
+605003,pan Filip Buczma,39,Kędzierzyn-Koźle,Standard
+237642,Hubert Gągała,56,Bielawa,Premium
+505588,Sara Ligas,67,Jelenia Góra,Premium
+681176,Borys Rząca,52,Lubartów,Gold
+164005,Apolonia Sobstyl,46,Kielce,Standard
+746738,Grzegorz Dulas,50,Gdańsk,Gold
+609135,Kacper Bartman,50,Pruszków,Premium
+563427,Kaja Gaudyn,72,Ostrów Mazowiecka,Premium
+808490,Kazimierz Ruszczak,59,Włocławek,Gold
+287385,pani Aniela Ładniak,55,Sieradz,Standard
+127635,Maciej Młot,66,Otwock,Premium
+368033,pan Franciszek Drej,21,Sopot,Premium
+900890,Apolonia Walenciak,60,Białogard,Premium
+192303,Robert Mućko,59,Radom,Premium
+532623,Maciej Barankiewicz,80,Lubliniec,Premium
+142808,Kalina Stefankiewicz,54,Opole,Standard
+379304,Tymoteusz Śnieg,22,Zawiercie,Premium
+162532,Marcel Suchoń,84,Zawiercie,Standard
+686276,Elżbieta Zgoła,34,Przemyśl,Premium
+644601,Rozalia Mikoda,28,Nowa Sól,Gold
+872034,pan Robert Ksel,75,Koło,Premium
+438594,pan Krystian Sycz,58,Ciechanów,Standard
+340677,Julianna Łyskawa,83,Skierniewice,Premium
+621514,Aleksander Kusa,34,Kołobrzeg,Gold
+870521,Tobiasz Cuch,61,Krotoszyn,Standard
+642158,Klara Tutka,61,Zakopane,Gold
+180971,Mikołaj Paluszak,70,Jelenia Góra,Standard
+127595,Julianna Zachwieja,32,Piaseczno,Premium
+887855,Jerzy Starostka,76,Żagań,Gold
